@@ -1,2 +1,2 @@
 # hotsite
-same kind of portifolio
+some kind of portifolio
